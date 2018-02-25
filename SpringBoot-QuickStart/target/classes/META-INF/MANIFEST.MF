@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-QuickStart
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Golik Maxim
+Implementation-Vendor-Id: ua.golik.javabrains
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-Q
+ uickStart/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
